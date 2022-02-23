@@ -76,7 +76,32 @@ ul.et_pb_social_media_follow{list-style-type:none!important;margin:0 0 22px;padd
 
 	
 	
-			
+			<header id="main-header" data-height-onload="30">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="./index.html">
+						<img src="./wp-content/themes/Divi/images/logo.png" width="93" height="43" alt="Ecard" id="logo" data-height-percentage="30">
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="30" data-fixed-height="40">
+											<nav id="top-menu-nav">
+													<ul id="top-menu" class="nav">
+								
+																							</ul>
+												</nav>
+					
+					
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+					</header> <!-- #main-header -->
 			<div id="et-main-area">
 	
 <div id="main-content">
@@ -176,7 +201,36 @@ ul.et_pb_social_media_follow{list-style-type:none!important;margin:0 0 22px;padd
 </div>
 
 
-			
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+		<div class="footer-widget">
+<div id="block-5" class="fwidget et_pb_widget widget_block"><div class="wp-container-62160df990a56 wp-block-group"><div class="wp-block-group__inner-container">
+<h2>Archives</h2>
+<ul class=" wp-block-archives-list wp-block-archives">	<li><a href="./2022/02/index.html">February 2022</a></li>
+</ul>
+</div></div></div>
+<div id="block-6" class="fwidget et_pb_widget widget_block"><div class="wp-container-62160df992fc3 wp-block-group"><div class="wp-block-group__inner-container">
+<h2>Categories</h2>
+<ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-1">
+<a href="./category/uncategorized/index.html">Uncategorized</a>
+</li>
+</ul>
+</div></div></div>
+</div>
+<div class="footer-widget"></div>
+<div class="footer-widget"></div>
+<div class="footer-widget"></div>	</div>
+</div>
+
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<p id="footer-info">Designed by <a href="https://www.elegantthemes.com/" title="Premium WordPress Themes">Elegant Themes</a> | Powered by <a href="https://www.wordpress.org/">WordPress</a></p>					</div>
+				</div>
+			</footer>
 		</div>
 
 
